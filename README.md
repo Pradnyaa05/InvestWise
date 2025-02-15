@@ -1,1 +1,3 @@
 # WiseInvest
+
+Our problem domain concerns wealth management for the common middle-class people, focusing on Mutual Funds. There are very limited techniques for wealth management like FDs, Stock Trading, Crypto, Estate Planning, Corporate Bonds, etc. However, all of them require time, focus, significant capital, invovle risk factors, and offer limited interest rates. Mutual funds are investment vehicles that pool money from multiple investors to invest in a diversified portfolio of securities such as stocks, bonds, money market instruments, where they are managed by an asset management company (AMC).
